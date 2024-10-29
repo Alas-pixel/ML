@@ -4,6 +4,7 @@ ML PREDICTIONS USING ALGORITHMS
 This code is a Streamlit application that performs machine learning classification using various algorithms. Here's a breakdown of its main components and functionality:
 
 Import statements:--------
+
  The code imports necessary libraries like numpy, pandas, matplotlib, streamlit, and various scikit-learn modules for machine learning.
 
 Main function: The entire application is wrapped in a main() function.
